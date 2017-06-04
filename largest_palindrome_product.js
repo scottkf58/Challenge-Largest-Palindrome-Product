@@ -12,7 +12,7 @@ module.exports = function(digits){
   var max;
 
 
-  if ( digits === 2) {
+  if (digits === 2) {
     max = 100;
   }
 
